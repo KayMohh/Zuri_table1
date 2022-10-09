@@ -15,11 +15,12 @@ h1{
 
 
 table {
-    border: 1px Solid white;
+    border: 1px;
     padding: 5px;
     border-spacing: 5px;
 }
 
+table, thead,  
 td {
     border: 1.5px solid white;
 }
